@@ -38,7 +38,6 @@ The dataset consists of **images of people with and without masks**.
 3️⃣ Save model & class labels  
 4️⃣ Perform real-time face detection using OpenCV  
 5️⃣ Classify each detected face using the trained CNN model  
-6️⃣ Trigger **beep alert** for "without mask" faces  
 
 ---
 
