@@ -1,0 +1,7 @@
+numpy==1.25.2
+pandas==2.1.1
+matplotlib==3.8.0
+opencv-python==4.8.1.78
+tensorflow==2.13.0
+keras==2.13.1
+pickle-mixin==1.0.2
